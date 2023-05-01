@@ -8,6 +8,9 @@ Screenshot of project clone into azure cloud shell
 ![image](https://user-images.githubusercontent.com/80934027/235412856-54f07fac-2ba5-4a61-9759-b855aa4c2845.png)
 
 This is the result after **make all** command is run :
-
 ![image](https://user-images.githubusercontent.com/80934027/235418393-fb924c9d-096d-4b63-bd57-d12d8079c6a9.png)
+
+Output of the test result from Github Actions:
+![image](https://user-images.githubusercontent.com/80934027/235420590-04ec4182-43dc-40ce-bb74-fcfb15211337.png)
+
 
