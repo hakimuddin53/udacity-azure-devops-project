@@ -30,7 +30,8 @@
 ![image](https://user-images.githubusercontent.com/80934027/235418393-fb924c9d-096d-4b63-bd57-d12d8079c6a9.png)
 
 * Output of a test run in github actions
-![image](https://user-images.githubusercontent.com/80934027/235420590-04ec4182-43dc-40ce-bb74-fcfb15211337.png)
+![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/17c5cbcf-ea39-4512-8359-026d51c723cc)
+
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
