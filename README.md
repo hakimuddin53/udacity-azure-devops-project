@@ -39,6 +39,10 @@
   
   Creating web app
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/fe466d62-9525-45bd-9665-8b1d74525a2f)
+  
+  Web app running
+  ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/eee9c445-6317-4fb0-a0e0-c209b3c3fbc7)
+
 
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
