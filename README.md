@@ -42,6 +42,13 @@
   
   Web app running
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/eee9c445-6317-4fb0-a0e0-c209b3c3fbc7)
+  
+  Created devops project
+  ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/ff69c497-efe2-47f2-96b0-8f5e288eab42)
+  
+  Created Service Connection
+  ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/2f4a6aeb-7e73-4712-9b53-2a4fe37a6e69)
+
 
 
 
