@@ -3,8 +3,6 @@
 Deploying and building CI/CD pipeline
 
 ## Project Plan
-<TODO: Project Plan
-
 *Trello board (https://trello.com/b/WdlU71vu/projectplanudacitycicd)
 * A link to a spreadsheet that includes the original and final project plan>
 
