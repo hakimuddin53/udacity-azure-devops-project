@@ -39,6 +39,7 @@
   
   Creating web app
   az webapp up --name udacity-azure-devops-project-2 --resource-group Azuredevops --sku B1 --logs --runtime "PYTHON:3.8"
+  ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/c9fbbea1-413d-4eb0-b9b1-5c6e7a2a0e5d)
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/fe466d62-9525-45bd-9665-8b1d74525a2f)
   
   Web app running
