@@ -95,7 +95,7 @@ stages:
             displayName: 'Use Python version'
 
           - task: AzureWebApp@1
-            displayName: 'Deploy Azure Web App : uda-azuredevops-p2'
+            displayName: 'Deploy Azure Web App : udacity-azure-devops-project'
             inputs:
               azureSubscription: $(azureServiceConnectionId)
               appName: $(webAppName)
