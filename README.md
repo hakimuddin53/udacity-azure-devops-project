@@ -34,75 +34,50 @@ Steps to deploy the project and run both manually and using CI/CD pipeline
 
 * Running Azure App Service from Azure Pipelines automatic deployment
   
-  Creating web app
+* Creating web app
   az webapp up --name udacity-azure-devops-project-2 --resource-group Azuredevops --sku B1 --logs --runtime "PYTHON:3.8"
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/c9fbbea1-413d-4eb0-b9b1-5c6e7a2a0e5d)
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/fe466d62-9525-45bd-9665-8b1d74525a2f)
   
-  Web app running
+* Web app running
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/eee9c445-6317-4fb0-a0e0-c209b3c3fbc7)
   
-  Created devops project
+* Created devops project
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/ff69c497-efe2-47f2-96b0-8f5e288eab42)
   
-  Created Service Connection
+* Created Service Connection
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/2f4a6aeb-7e73-4712-9b53-2a4fe37a6e69)
   
-  Created Agent Pool
+* Created Agent Pool
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/253b49d3-8bf7-455c-bc47-c351839c2c56)
 
-  Created Virtual Machine
+* Created Virtual Machine
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/48e3d934-3154-439a-a5d2-da2971fa4e16)
   
-  Created Agent
+* Created Agent
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/497235f6-1c5e-4730-bae9-ffcc13baa8c9)
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/a0403b48-a79b-4603-9b10-a2fe3f50b723)
   
-  Run First Pipeline Job
+* Run First Pipeline Job
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/faf8e1b8-fc94-481f-964e-8c39f898a4e8)
   
-  Build Stage
+* Build Stage
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/951313bf-e252-436b-9ab4-588add369681)
   
-  Log Files
+* Output of streamed log files from deployed application
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/17be136d-c8c2-47ba-9c82-f6fd2fe496ff)
 
-
-  Web App Result
+* Web App Result
   
-  
-  Change something in Web App result
+* Change something in Web App result
   
 
-
-
-
-
-
-
-
-
-
-* Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
-The output should look similar to this:
-
-```bash
-udacity@Azure:~$ ./make_predict_azure_app.sh
-Port: 443
-{"prediction":[20.35373177134412]}
-```
-
-* Output of streamed log files from deployed application
-
-> 
+* Successful prediction from deployed flask app in Azure Cloud Shell.
 
 ## Enhancements
-
-<TODO: A short description of how to improve the project in the future>
+I wish we can have a longer access to the lab since we for me i had to do this project 3 times because the lab time and everything vanishes.
 
 ## Demo 
-
-<TODO: Add link Screencast on YouTube>
 
 
 
