@@ -4,7 +4,7 @@ Deploying and building CI/CD pipeline
 
 ## Project Plan
 * Trello board (https://trello.com/b/WdlU71vu/projectplanudacitycicd)
-* A link to a spreadsheet that includes the original and final project plan>
+* Project Plan attach to the github repo (**Project_Plan_Udactiy_CI_CD.xlsx**)
 
 ## Instructions
 
