@@ -20,7 +20,7 @@ variables:
 
   projectRoot: $(System.DefaultWorkingDirectory)
  
-  pythonVersion: '3.8'
+  pythonVersion: '3.9'
 
 stages:
 - stage: Build
