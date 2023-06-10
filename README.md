@@ -8,7 +8,8 @@ Deploying and building CI/CD pipeline
 
 ## Instructions
 
-* Architectural Diagram 
+Architectural Diagram 
+
 ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/e0babd2b-c1af-4d57-bccf-fd03c1a29e7f)
 
 
