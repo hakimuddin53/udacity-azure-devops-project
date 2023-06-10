@@ -8,8 +8,9 @@ Deploying and building CI/CD pipeline
 
 ## Instructions
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
+* Architectural Diagram 
+![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/e0babd2b-c1af-4d57-bccf-fd03c1a29e7f)
+
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
