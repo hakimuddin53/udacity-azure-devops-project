@@ -66,6 +66,10 @@
   
   Build Stage
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/951313bf-e252-436b-9ab4-588add369681)
+  
+  Log Files
+  ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/17be136d-c8c2-47ba-9c82-f6fd2fe496ff)
+
 
   Web App Result
   
