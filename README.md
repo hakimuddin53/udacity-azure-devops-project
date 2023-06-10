@@ -56,6 +56,11 @@
 
   Created Virtual Machine
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/48e3d934-3154-439a-a5d2-da2971fa4e16)
+  
+  Created Agent
+  ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/497235f6-1c5e-4730-bae9-ffcc13baa8c9)
+  ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/a0403b48-a79b-4603-9b10-a2fe3f50b723)
+
 
 
 
