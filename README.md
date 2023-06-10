@@ -12,6 +12,8 @@ Architectural Diagram
 
 ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/e0babd2b-c1af-4d57-bccf-fd03c1a29e7f)
 
+Steps to deploy the project and run both manually and using CI/CD pipeline
+
 * Project cloned into Azure Cloud Shell
 1) Add ssh key to the github profile generated from azure cloud shell by typing the ssh key gen command.
 2) Clone the repo from github by typing the git clone command. (git clone <ur url>)
