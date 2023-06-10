@@ -29,11 +29,6 @@ Steps to deploy the project and run both manually and using CI/CD pipeline
 * Output of a test run in github actions
 ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/17c5cbcf-ea39-4512-8359-026d51c723cc)
 
-
-* Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
-
-* Running Azure App Service from Azure Pipelines automatic deployment
-  
 * Creating web app
   az webapp up --name udacity-azure-devops-project-2 --resource-group Azuredevops --sku B1 --logs --runtime "PYTHON:3.8"
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/c9fbbea1-413d-4eb0-b9b1-5c6e7a2a0e5d)
@@ -63,6 +58,8 @@ Steps to deploy the project and run both manually and using CI/CD pipeline
   
 * Build Stage
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/951313bf-e252-436b-9ab4-588add369681)
+  
+* Successful deploy of the project in Azure Pipelines. 
   
 * Output of streamed log files from deployed application
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/17be136d-c8c2-47ba-9c82-f6fd2fe496ff)
