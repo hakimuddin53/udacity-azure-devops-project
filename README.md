@@ -63,6 +63,15 @@
   
   Run First Pipeline Job
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/faf8e1b8-fc94-481f-964e-8c39f898a4e8)
+  
+  Build Stage
+  ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/951313bf-e252-436b-9ab4-588add369681)
+
+  Web App Result
+  
+  
+  Change something in Web App result
+  
 
 
 
