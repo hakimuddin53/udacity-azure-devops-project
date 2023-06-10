@@ -52,6 +52,8 @@
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/2f4a6aeb-7e73-4712-9b53-2a4fe37a6e69)
   
   Created Agent Pool
+  ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/253b49d3-8bf7-455c-bc47-c351839c2c56)
+
   
   Created Virtual Machine
 
