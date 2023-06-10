@@ -12,11 +12,6 @@ Architectural Diagram
 
 ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/e0babd2b-c1af-4d57-bccf-fd03c1a29e7f)
 
-
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
-
-* Project running on Azure App Service
-
 * Project cloned into Azure Cloud Shell
 1) Add ssh key to the github profile generated from azure cloud shell by typing the ssh key gen command.
 2) Clone the repo from github by typing the git clone command. (git clone <ur url>)
