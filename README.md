@@ -69,7 +69,7 @@ Steps to deploy the project and run both manually and using CI/CD pipeline
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/43dab344-014e-4e6b-99a9-59405ad1ffe0)
 
 ## Enhancements
-I wish we can have a longer access to the lab since we for me i had to do this project 3 times because the lab time and everything vanishes.
+I wish we can have a longer access to the lab since we for me i had to do this project 3 times because the lab time end and everything finishes at the end use my own account to do it.
 
 ## Demo 
 https://www.youtube.com/watch?v=2EcvoJb8HFo
