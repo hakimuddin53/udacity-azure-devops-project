@@ -71,6 +71,7 @@ Steps to deploy the project and run both manually and using CI/CD pipeline
 I wish we can have a longer access to the lab since we for me i had to do this project 3 times because the lab time and everything vanishes.
 
 ## Demo 
+https://www.youtube.com/watch?v=2EcvoJb8HFo
 
 
 
