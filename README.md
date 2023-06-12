@@ -68,6 +68,9 @@ Steps to deploy the project and run both manually and using CI/CD pipeline
 
 * Web App Result
   
+  ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/0b3f23d0-9368-4d56-b555-f1797fc57a22)
+
+  
 * Change something in Web App result
   
 
