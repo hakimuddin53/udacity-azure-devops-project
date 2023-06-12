@@ -10,9 +10,9 @@ pool: myAgentPool
 
 variables:
 
-  azureServiceConnectionId: 'udacity-azure-devops-project2-sc'
+  azureServiceConnectionId: 'myServiceConnection'
   
-  webAppName: 'udacity-azure-devops-project-2'
+  webAppName: 'udacity-azure-devops-project-2a'
 
   vmImageName: 'ubuntu-latest'
 
@@ -20,7 +20,7 @@ variables:
 
   projectRoot: $(System.DefaultWorkingDirectory)
  
-  pythonVersion: '3.7'
+  pythonVersion: '3.8'
 
 stages:
 - stage: Build
