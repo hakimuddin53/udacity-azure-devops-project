@@ -58,7 +58,6 @@ Steps to deploy the project and run both manually and using CI/CD pipeline
 * Successful deploy of the project in Azure Pipelines.
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/951313bf-e252-436b-9ab4-588add369681)
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/ce5ddb0c-10f1-42f1-a665-4d946abe6544)
-
   
 * Output of streamed log files from deployed application
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/11d5836b-b37c-4310-9ed8-ebc998421b21)
