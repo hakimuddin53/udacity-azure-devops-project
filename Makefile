@@ -1,6 +1,6 @@
 setup:
-	python3 -m venv ~/.Udacity_Project_2
-	source ~/.Udacity_Project_2/bin/activate
+	python3 -m venv ~/.udacity-azure-devops-project
+	source ~/.udacity-azure-devops-project/bin/activate
 
 install:
 	pip install --upgrade pip &&\
