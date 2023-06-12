@@ -63,9 +63,10 @@ Steps to deploy the project and run both manually and using CI/CD pipeline
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/11d5836b-b37c-4310-9ed8-ebc998421b21)
 
 * Web App Result
-  ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/0b3f23d0-9368-4d56-b555-f1797fc57a22)
-
+  ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/1837f12d-cae3-4b8f-ab80-f99f637d57c0)
+    
 * Successful prediction from deployed flask app in Azure Cloud Shell.
+  ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/43dab344-014e-4e6b-99a9-59405ad1ffe0)
 
 ## Enhancements
 I wish we can have a longer access to the lab since we for me i had to do this project 3 times because the lab time and everything vanishes.
