@@ -25,5 +25,5 @@ curl -d '{
    }
 }'\
      -H "Content-Type: application/json" \
-     -X POST https://udacity-azure-devops-project-2.azurewebsites.net:$PORT/predict 
+     -X POST https://udacity-azure-devops-project-2a.azurewebsites.net:$PORT/predict 
      #your application name <yourappname>goes here
