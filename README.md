@@ -67,9 +67,13 @@ Steps to deploy the project and run both manually and using CI/CD pipeline
     
 * Successful prediction from deployed flask app in Azure Cloud Shell.
   ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/43dab344-014e-4e6b-99a9-59405ad1ffe0)
+  
+* Load Test using locust (run for 10 users with 5 users per second and run for 30 seconds)
+  ![image](https://github.com/hakimuddin53/udacity-azure-devops-project/assets/80934027/efca7995-2869-4242-8b53-810f989a27f9)
+
 
 ## Enhancements
-I wish we can have a longer access to the lab since we for me i had to do this project 3 times because the lab time end and everything finishes at the end use my own account to do it.
+I wish we can save the settings in azure portal which we have done in the lab somehow so that when we want to create the project again we can just import that save settings and we can continue from the place we left off.
 
 ## Demo 
 https://www.youtube.com/watch?v=2EcvoJb8HFo
